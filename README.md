@@ -1,5 +1,9 @@
 # Floor Clock
 
+![Floor Clock turning over from 10:59:59 to 11:00:00](media/floor-clock.webp)
+
+[MP4 version](media/floor-clock.mp4)
+
 A live clock in three.js. The floor slides under the clock, one tile per second. Each new digit slides in from behind and catches up. The old one drops into its hole and rides away with the floor.
 
 A recreation of [Kitasenju Design's clock](https://x.com/kitasenjudesign/status/2114308460456329379) (@kitasenjudesign). All credit for the idea and design goes to them. This version was matched to their video frame by frame (camera, layout, timing).
