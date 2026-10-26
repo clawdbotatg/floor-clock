@@ -18,9 +18,13 @@ npx http-server .
 
 Drag to look around. Shows your local time.
 
+`roll.html` is a variation (not in the original): the floor is a drum rolling under the clock. New digits come up over the top, old ones roll away.
+
 ## Files
 
-- `index.html`: the whole thing (three.js 0.160 from jsDelivr, digit outlines inlined).
+- `index.html`: the clock, flat floor, matched to the original.
+- `roll.html`: same clock on a rolling drum.
+  Both are single files (three.js 0.160 from jsDelivr, digit outlines inlined).
 - `tools/`: what was used to match the original frame by frame. See `tools/README.md`.
 
 ## Font
